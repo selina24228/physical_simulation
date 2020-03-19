@@ -1,9 +1,0 @@
-Code Debug and improve:
-1. assume all nuts(including the big one) has random initial velocity
-2. plot the y-component of the big nut and the average of the rest of all nuts
-3. Improve the condition that two or more balls may stick together
-
-
-Things to do:
-1. Design that the container has the initial velocity, instead of the ball(e.g., the initial velocity of all balls is 0, and shake the box)
-2. 讓球最後不會掉出箱子底部（目前是因為誤差）

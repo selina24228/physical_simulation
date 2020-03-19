@@ -1,0 +1,10 @@
+Assumtion:
+1.all nuts are sphere
+2.all nuts except the biggest one are the same
+3.the system is shocked by the horizonal force
+Ways:
+1.use box as a container. if still have time,use can
+2.no friction->friction
+3.disscuss for two parameters:different mass and different radius ratio
+4.find the proper nut amount
+5.maybe can just show the biggest one's velocity and track instead of all system
